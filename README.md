@@ -24,7 +24,8 @@ The C-GAN also receives class labels as input, so that it can generate images of
 
 The GAN and C-GAN are trained for 250 epochs. After each epoch, the generator and discriminator are both updated based on their performance. The generated images are also plotted to show the progress of the training.
 
-![image](https://user-images.githubusercontent.com/82934994/214012458-3c072d16-c87d-4304-9691-8b03f0573ab3.png)
+![image](https://user-images.githubusercontent.com/82934994/214012544-9b6ab7be-ee67-454a-ba95-d5840edaa572.png)
+
 
 ## Results
 
